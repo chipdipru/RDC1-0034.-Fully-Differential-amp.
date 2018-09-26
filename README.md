@@ -9,7 +9,7 @@
 Рекомендованное напряжение питания -  12В<br>
 Возможное напряжение питания – 5…30В</p>
 <p><h2>Схема</h2></p>
-<p><a href="https://github.com/chipdipru/RDC1-0034_Fully-Differential-amp./blob/master/pic0034/RDC1-0034_sch.png" class="galery"><img src="https://static.chipdip.ru/kits/9000454392/RDC1-0034_sch_800.png" alt="Схема"></a></p>
+<p><a href="https://github.com/chipdipru/RDC1-0034_Fully-Differential-amp./blob/master/pic0034/RDC1-0034_sch.png" class="galery"><img src="https://github.com/chipdipru/RDC1-0034_Fully-Differential-amp./blob/master/pic0034/RDC1-0034_sch_800.png" alt="Схема"></a></p>
 <p>На схеме отображены два корпуса микросхемы OPA1632. Для сборки выбирайте один MSOP-8 или SO-8. </p>
 <p><h2>Монтажная схема</h2></p>
 <p><a href="https://static.chipdip.ru/kits/9000454392/RDC1-0034_M_800.png" class="galery"><img src="https://static.chipdip.ru/kits/9000454392/RDC1-0034_M_800.png" alt="Монтажная схема"></a></p>
